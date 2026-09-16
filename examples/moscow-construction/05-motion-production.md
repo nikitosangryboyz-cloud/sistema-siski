@@ -12,7 +12,7 @@ Implemented with GSAP + ScrollTrigger loaded only when reduced motion is not req
 - No permanent decorative animation.
 - No ScrollTrigger markers in production.
 
-These choices follow the official GSAP ScrollTrigger pattern: register the plugin, keep scroll-driven animations tied to top-level triggers, and respect reduced motion. urlGSAP ScrollTrigger skillhttps://github.com/greensock/gsap-skills/blob/main/skills/gsap-scrolltrigger/SKILL.md
+These choices follow the official GSAP ScrollTrigger pattern: register the plugin, keep scroll-driven animations tied to top-level triggers, and respect reduced motion. Source: https://github.com/greensock/gsap-skills/blob/main/skills/gsap-scrolltrigger/SKILL.md
 
 ## Production checklist
 
