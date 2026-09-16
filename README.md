@@ -28,3 +28,7 @@
 - Animation is purposeful and restrained.
 - Avoid generic AI-generated visual patterns and repetitive template blocks.
 - Every stage has its own QA and PASS criteria.
+
+## Completed example
+
+`examples/moscow-construction/` — полный проход пяти стадий для сайта строительной компании в Москве по пользовательскому референсу: HTML, design tokens, architecture record, desktop polish, responsive composition and motion/production QA.
